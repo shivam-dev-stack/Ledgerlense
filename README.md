@@ -1,0 +1,2 @@
+Expertise is the bottleneck in a large part of the economy. Billing, claims, tax, legal paperwork and technical support all wait on a few credentialed people. AI changes that: with the right app, an ordinary worker can do work that used to need a specialist, and do it well. Wherever a credential is the bottleneck, we want the app that removes it. 
+# **ledgerlens solves this problem**
